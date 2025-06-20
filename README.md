@@ -1,9 +1,9 @@
 ---
 # Hi there, I'm Banuka 👋
 
-🌱 I’m currently learning **programming, web development, network and computer science fundamentals.**  
-💻 Most of my projects are written in **Python, JavaScript, and HTML/CSS**.  
-🎓 I'm currently pursuing my university studies in computing.
+🌱 I’m currently learning **programming, web development, network, and computer science fundamentals.**  
+💻 Most of my projects are written in **Python, Java, Batch and HTML/CSS**.  
+🎓 I'm currently an undergraduate at the University of Sri Jayewardenepura.
 
 ### 📌 GitHub Stats
 ![Banuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=banuka20431&show_icons=true&theme=radical)
