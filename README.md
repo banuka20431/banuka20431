@@ -9,7 +9,7 @@
 ![Banuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=banuka20431&show_icons=true&theme=radical)
 
 ### 📌 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banuka20431&layout=compact&theme=radical)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=banuka20431&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=banuka20431))
 
 ### 🧰 Tools & Technologies
 - Python 🐍
