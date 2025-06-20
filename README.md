@@ -1,7 +1,7 @@
-## Hi there 👋
+--
 # Hi there, I'm Banuka 👋
 
-🌱 I’m currently learning **programming, web development, and computer science fundamentals.**  
+🌱 I’m currently learning **programming, web development, network and computer science fundamentals.**  
 💻 Most of my projects are written in **Python, JavaScript, and HTML/CSS**.  
 🎓 I'm currently pursuing my university studies in computing.
 
@@ -13,15 +13,15 @@
 
 ### 🧰 Tools & Technologies
 - Python 🐍
-- JavaScript 🟨
+- Java 🟨
+- Batch 💾
 - HTML/CSS 🌐
+- Tailwind 🍃
 - Git & GitHub 🧑‍💻
 - Linux 🐧
 
 ### 📫 How to reach me
-- ✉️ [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(optional)*
+- ✉️ [Email](mailto:malithbanukasubasina@gmail.com)
 
 ---
 
