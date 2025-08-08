@@ -14,6 +14,7 @@
 ### 🧰 Tools & Technologies
 - Python 🐍
 - Java 🟨
+- C 👑
 - Batch 💾
 - HTML/CSS 🌐
 - Tailwind 🍃
