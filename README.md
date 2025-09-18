@@ -22,7 +22,7 @@
 - Linux 🐧
 
 ### 📫 How to reach me
-- ✉️ [Email](mailto:malithbanukasubasina@gmail.com)
+- ✉️ [Email](mailto:malithbanukasubasinghe@gmail.com)
 
 ---
 
