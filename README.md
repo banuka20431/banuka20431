@@ -6,7 +6,7 @@
 🎓 I'm currently an undergraduate at the University of Sri Jayewardenepura.
 
 ### 📌 GitHub Stats
-![Banuka's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=banuka20431&show_icons=true&theme=transparent)
+![Banuka's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=banuka20431&show_icons=true&theme=radical)
 
 ### 📌 Languages
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=banuka20431&show_icons=true&theme=radical)
