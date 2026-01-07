@@ -12,14 +12,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banuka20431&show_icons=true&theme=radical)
 
 ### 🧰 Tools & Technologies
-- Python 🐍
-- Java 🟨
-- C 👑
-- Batch 💾
-- HTML/CSS 🌐
-- Tailwind 🍃
-- Git & GitHub 🧑‍💻
-- Linux 🐧
+<img src="https://skillicons.dev/icons?i=git,linux,bash,python,java,c,html,css,tailwind" />
 
 ### 📫 How to reach me
 - ✉️ [Email](mailto:malithbanukasubasinghe@gmail.com)
