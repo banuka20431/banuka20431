@@ -9,7 +9,7 @@
 ![Banuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=banuka20431&show_icons=true&theme=radical)
 
 ### 📌 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api?username=banuka20431&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api?username=banuka20431)
 
 ### 🧰 Tools & Technologies
 ![Tools and Technologies](https://skillicons.dev/icons?i=git,linux,bash,python,java,c,html,css,tailwind")
