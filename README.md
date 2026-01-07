@@ -34,6 +34,6 @@ I am a dedicated student at the **University of Sri Jayewardenepura** with a dee
 
 ### 📫 Connect with me
 - 📧 **Email:** [malithbanukasubasinghe@gmail.com](mailto:malithbanukasubasinghe@gmail.com)
-- 💼 **LinkedIn:** [Your Profile Link Here]
+- 💼 **LinkedIn:** [[Linkedin Account Link](https://www.linkedin.com/in/malith-banuka-subasinghe-411059378/)]
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – **Cory House**
