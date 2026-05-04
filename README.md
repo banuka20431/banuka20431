@@ -1,5 +1,5 @@
 # Hi there, I'm Banuka 👋 
-**Undergraduate Computer Science Student | Passionate Developer**
+**Undergraduate at USJ | Passionate Developer**
 
 I am a dedicated student at the **University of Sri Jayewardenepura** with a deep interest in building efficient software and exploring the depths of computer science. Currently, I'm honing my skills in backend logic and modern web technologies.
 
@@ -17,9 +17,10 @@ I am a dedicated student at the **University of Sri Jayewardenepura** with a dee
 ---
 
 ### 🔭 Currently Working On
-- 🌱 Exploring **Network Fundamentals** and **System Architecture**.
-- 💻 Developing projects using **Java** and **Python**.
-- 📚 Studying for my degree at USJ.
+- Exploring **Network Technology** and **System Architecture**.
+- Developing projects related to my course curriculum.
+- Studying for my degree at USJ.
+- Keeping a close eye on Emergin Technologies.
 
 
 ---
@@ -35,5 +36,3 @@ I am a dedicated student at the **University of Sri Jayewardenepura** with a dee
 ### 📫 Connect with me
 - 📧 **Email:** [malithbanukasubasinghe@gmail.com](mailto:malithbanukasubasinghe@gmail.com)
 - 💼 **LinkedIn:** [Malith Banuka Subasinghe](https://www.linkedin.com/in/malith-banuka-subasinghe-411059378/)
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_ – **Cory House**
