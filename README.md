@@ -24,6 +24,7 @@ I am an undergraduate student at the **University of Sri Jayewardenepura (Facult
 - 🌱 Expanding my linguistic skills by learning several other languages.
 - ⭐ Looking out for opportunities to do things that would benefit others.
 - 😁 On a self-improvement journey
+- 💾 In my free time, you'll find me building terminal-based games, listening to music, or binge-watching a good series or couple of movies.
 
 ---
 
