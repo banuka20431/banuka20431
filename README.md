@@ -1,7 +1,7 @@
 # Hi there, I'm Banuka 👋 
-**Undergraduate at USJ | Passionate Developer**
+**Undergraduate at USJ | Passionate Developer | Backend & System Design Enthusiast**
 
-I am a dedicated student at the **University of Sri Jayewardenepura** with a deep interest in building efficient software and exploring the depths of computer science. Currently, I'm honing my skills in backend logic and modern web technologies.
+I am an undergraduate student at the **University of Sri Jayewardenepura (Faculty of Technology)** with a keen interest in backend development, system design, and exploring the depths of computer networks. Currently, I'm honing my skills in robust server-side logic, scalable database architectures, and system administration.
 
 ---
 
@@ -9,19 +9,21 @@ I am a dedicated student at the **University of Sri Jayewardenepura** with a dee
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-| **Scripting & OS** | ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Batch](https://img.shields.io/badge/Batch%20Scripting-%234D4D4D.svg?style=flat) |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Backend & DB** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) |
+| **DevOps & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=flat&logo=fedora&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
 ### 🔭 Currently Working On
-- Exploring **Network Technology** and **System Architecture**.
-- Developing projects related to my course curriculum.
-- Studying for my degree at USJ.
-- Keeping a close eye on Emergin Technologies.
-
+- ⚙️ Architecting scalable **backend solutions** and focusing on efficient **system design**.
+- 🌐 Deepening my knowledge in **Computer Networks** and server deployment.
+- 🎓 Focusing on my coursework and extracurriculars (ICTS Society) at USJ.
+- 🌱 Expanding my linguistic skills by learning several other languages.
+- ⭐ Looking out for opportunities to do things that would benefit others.
+- 😁 On a self-improvement journey
 
 ---
 
