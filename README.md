@@ -32,8 +32,8 @@ I am an undergraduate student at the **University of Sri Jayewardenepura (Facult
 
 ### 📊 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=banuka20431&show_icons=true&theme=radical&hide_border=true" width="46%" height="180"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=banuka20431&show_icons=true&theme=radical&layout=compact&hide_border=true" width="50%" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=banuka20431&show_icons=true&theme=radical&hide_border=true" height="180" alt="Banuka's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=banuka20431&theme=radical&layout=compact&hide_border=true" height="180" alt="Banuka's Top Languages" />
 </p>
 
 ---
