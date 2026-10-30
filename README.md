@@ -31,10 +31,16 @@ I am an undergraduate student at the **University of Sri Jayewardenepura (Facult
 ---
 
 ### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=banuka20431&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="Banuka's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=banuka20431&theme=radical&layout=compact&hide_border=true" height="195" alt="Banuka's Top Languages" />
-</p>
+<table width="100%" border="0" align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" valign="middle" style="border: none;">
+      <img src="https://github-stats-extended.vercel.app/api?username=banuka20431&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Banuka's GitHub Stats" />
+    </td>
+    <td align="center" valign="middle" style="border: none;">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=banuka20431&theme=radical&layout=compact&hide_border=true" alt="Banuka's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
